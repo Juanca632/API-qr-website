@@ -1,0 +1,401 @@
+{
+    "question":"What are you looking for?",
+    "Quick guide":
+    {
+        "img":"guide.svg"
+        
+    },
+    "Technical data sheet":
+    {
+        "question": "Which model of product for the data sheet?",
+        "img":"datasheet.svg",
+        "OlenBox batteries":
+        {
+            "question":"Which OlenBox for the technical data sheet?",
+            "img":"OlenBox.png",
+            "series XS":
+            {   
+                "question":"Series XS",
+                "img":"olenbox-xs.png",
+                "12V-60Wh":{
+                    "img":"olenbox-xs.png",
+                    "url":"https://www.olenergies.com/_datasheet/FR/1-FT-OB_XS12V-ECO.pdf"
+                }
+            },
+            "Series XS-Max":
+            {
+                "question":"Series XS-Max",
+                "img":"olenbox-xs.png",
+                "12V-130Wh":{
+                    "img":"olenbox-xs.png",
+                    "url":"https://www.olenergies.com/_datasheet/FR/1-FT-OB_XS12V-MAX.pdf"
+                }
+            },
+            "series S":
+            {
+                "question":"Series S",
+                "img":"olenbox-s.png",
+                "12V-350Wh":{
+                    "img":"olenbox-s.png",
+                    "url":"https://www.olenergies.com/_datasheet/FR/2-FT-OB_S12V-ECO.pdf"
+                }
+            },
+            "series M":
+            {
+                "question":"Series M",
+                "img":"olenbox-m.png",
+                "12V-700Wh":{
+                    "img":"olenbox-m.png",
+                    "url":"https://www.olenergies.com/_datasheet/FR/3-FT-OB_M12V-ECO.pdf"
+                },
+                "24V-700Wh":{
+                    "url":"https://www.olenergies.com/_datasheet/FR/3-FT-OB_M24V-ECO.pdf",
+                    "img":"olenbox-m.png"
+                }
+            },
+            "series L":
+            {
+                "question":"Select a category",
+                "img":"olenbox-l.png", 
+                "ECO range":{
+
+                    "question":"ECO range",
+                    "img":"olenbox-l.png", 
+                    "12V-1.4kWh":{
+                        "img":"olenbox-l.png",
+                        "url":"https://www.olenergies.com/_datasheet/FR/4-FT-OB_L12V-ECO.pdf"
+                    },
+                    "24V-1.4kWh":{
+                        "img":"olenbox-l.png",
+                        "url":"https://www.olenergies.com/_datasheet/FR/4-FT-OB_L24V-ECO.pdf"
+                    }
+
+                },
+                "PRO range":{
+
+                    "question":"PRO range",
+                    "img":"olenbox-l.png", 
+                    "12V-1.6kWh":{
+                        "img":"olenbox-l.png",
+                        "url":"https://www.olenergies.com/_datasheet/FR/4-FT-OB_L12V-PRO.pdf"
+                    },
+                    "24V-1.6kWh":{
+                        "img":"olenbox-l.png",
+                        "url":"https://www.olenergies.com/_datasheet/FR/4-FT-OB_L24V-PRO.pdf"
+                    }
+                }
+            },
+            "series LMax":
+            {
+                "img":"olenbox-l.png", 
+                "question":"Select a category",
+                "ECO range":{
+
+                    "question":"ECO range",
+                    "img":"olenbox-lmax.png",
+                    "12V-1.9kWh":{
+                        "img":"olenbox-lmax.png",
+                        "url":"https://www.olenergies.com/_datasheet/FR/5-FT-OB_LMax12V-ECO.pdf"
+                    },
+                    "24V-1.9kWh":{
+                        "img":"olenbox-lmax.png",
+                        "url":"https://www.olenergies.com/_datasheet/FR/5-FT-OB_LMax24V-ECO.pdf"
+                    },
+                    "48V-1.9kWh":{
+                        "img":"olenbox-lmax.png",
+                        "url":"https://www.olenergies.com/_datasheet/FR/5-FT-OB_LMax48V-ECO.pdf"
+                    }
+
+                },
+                "PRO range":{
+
+                    "question":"PRO range",
+                    "img":"olenbox-lmax.png",
+                    "12V-2.1kWh":{
+                        "img":"olenbox-lmax.png",
+                        "url":"https://www.olenergies.com/_datasheet/FR/5-FT-OB_LMax12V-PRO.pdf"
+                    },
+                    "24V-2.1kWh":{
+                        "img":"olenbox-lmax.png",
+                        "url":"https://www.olenergies.com/_datasheet/FR/5-FT-OB_LMax24V-PRO.pdf"
+                    },
+                    "48V-2.1kWh":{
+                        "img":"olenbox-lmax.png",
+                        "url":"https://www.olenergies.com/_datasheet/FR/5-FT-OB_LMax48V-PRO.pdf"
+                    }
+                }
+            },
+            "series XL":
+            {
+                "img":"olenbox-l.png", 
+                "question":"Select a category",
+                "ECO range":{
+
+                    "question":"ECO range",
+                    "img":"olenbox-xl.png",
+                    "12V-3.7kWh":{
+                        "img":"olenbox-xl.png",
+                        "url":"https://www.olenergies.com/_datasheet/FR/6-FT-OB_XL12V-ECO.pdf"
+                    },
+                    "24V-3.7kWh":{
+                        "img":"olenbox-xl.png",
+                        "url":"https://www.olenergies.com/_datasheet/FR/6-FT-OB_XL24V-ECO.pdf"
+                    },
+                    "48V-3.7kWh":{
+                        "img":"olenbox-xl.png",
+                        "url":"https://www.olenergies.com/_datasheet/FR/6-FT-OB_XL48V-ECO.pdf"
+                    }
+
+                },
+                "PRO range":{
+
+                    "question":"PRO range",
+                    "img":"olenbox-xl.png",
+                    "12V-4.2kWh":{
+                        "img":"olenbox-xl.png",
+                        "url":"https://www.olenergies.com/_datasheet/FR/6-FT-OB_XL12V-PRO.pdf"
+                    },
+                    "24V-4.2kWh":{
+                        "img":"olenbox-xl.png",
+                        "url":"https://www.olenergies.com/_datasheet/FR/6-FT-OB_XL24V-PRO.pdf"
+                    },
+                    "48V-4.2kWh":{
+                        "img":"olenbox-xl.png",
+                        "url":"https://www.olenergies.com/_datasheet/FR/6-FT-OB_XL48V-PRO.pdf"
+                    }
+                }
+            }
+        },
+        "OlenPack batteries":
+        {
+            "img":"olenpack.png",
+            "question":"Which OlenPack for the technical data sheet?",
+            "Series LV":{
+
+                "img":"olenpack.png",
+                "url":"https://www.olenergies.com/wp-content/uploads/2021/09/olenpack-lv-48v-5kwh-3.pdf"
+
+            }
+            
+        },
+        "MERLIN ecosystem products":
+        {
+            "img":"merlin.png",
+            "question":"which product in the Merlin ecosystem?",
+            "Merlin Smart Battery Monitoring":{
+                "img":"merlin.png",
+                "url":"https://www.olenergies.com/_datasheet/FR/50-FT-MERLIN.pdf"
+            },
+            "Merlin Smartshunt":{
+                "img":"smartshunt.png",
+                "url":"https://francebattery.com/wp-content/uploads/2022/02/fiche-technique-merlin-smartshunt-fren-scaled.jpg"
+            }
+        },
+        "Chargers":
+        {
+            "img":"charger.png",
+            "question":"Which charger for the technical data sheet?",
+            "Series S 12V":{
+                "img":"charger.png",
+                "url":"https://www.olenergies.com/wp-content/uploads/2021/07/chargeur_s-12-15.pdf"
+            },
+            "Series M 12V":{
+                "img":"charger.png",
+                "url":"https://www.olenergies.com/wp-content/uploads/2021/07/chargeur_m-12-25.pdf"
+            },
+            "Series L 12V":{
+                "img":"charger.png",
+                "url":"https://www.olenergies.com/wp-content/uploads/2021/07/chargeur_l-12-40.pdf"
+            },
+            "Series M 24V":{
+                "img":"charger.png",
+                "url":"https://www.olenergies.com/wp-content/uploads/2021/07/chargeur_m-24-10.pdf"
+            },
+            "Series L 24V":{
+                "img":"charger.png",
+                "url":"https://www.olenergies.com/wp-content/uploads/2021/07/chargeur_l-24-15.pdf"
+            },
+            "Series L 48V":{
+                "img":"charger.png",
+                "url":"https://www.olenergies.com/wp-content/uploads/2021/07/chargeur_l-48-10.pdf"
+            },
+            "Series XL 48V":{
+                "img":"charger.png",
+                "url":"https://www.olenergies.com/wp-content/uploads/2021/07/chargeur_s-12-15.pdf"
+            }
+        }
+    },
+    "Notice":
+    {
+        "img":"notice.svg"
+        
+    },
+    "Transport rules":
+    {
+        "img":"transport.svg"
+    },
+    "Material safety data sheet":
+    {
+        "question": "Which product range for the material safety data sheet?",
+        "img":"safety.svg",
+
+
+        "OlenBox batteries":
+        {
+            "img":"OlenBox.png",
+            "question":"Which OlenBox for the material safety data sheet?",
+            "series XS":
+            {
+                "question":"Series XS",
+                "img":"olenbox-xs.png",
+                "12V-100Wh":{
+                    "img":"olenbox-xs.png",
+                    "url":"https://www.olenergies.com/_MSDS/FR/1-FDS-OB_XS12V.pdf"
+                }
+            },
+            "series S":
+            {
+                "question":"Series S",
+                "img":"olenbox-s.png",
+                "12V-315Wh":{
+                    "img":"olenbox-s.png",
+                    "url":"https://www.olenergies.com/_MSDS/FR/2-FDS-OB_S12V.pdf"
+                }
+            },
+            "series M":
+            {
+                "question":"Series M",
+                "img":"olenbox-m.png",
+                "12V-835Wh":{
+                    "img":"olenbox-m.png",
+                    "url":"https://www.google.com"
+                },
+                "24V-835Wh":{
+                    "img":"olenbox-m.png",
+                    "url":"https://www.google.com"
+                }
+            },
+            "series L":
+            {
+                "question":"Series L",
+                "img":"olenbox-l.png",
+                "12V-1.25kWh":{
+                    "img":"olenbox-l.png",
+                    "url":"https://www.google.com"
+                },
+                "24V-1.25kWh":{
+                    "img":"olenbox-l.png",
+                    "url":"https://www.google.com"
+                },
+                "48V-1.25kWh":{
+                    "img":"olenbox-l.png",
+                    "url":"https://www.google.com"
+                }
+            },
+            "series LMax":
+            {
+                "question":"Series LMax",
+                "img":"olenbox-lmax.png",
+                "12V-1.65kWh":{
+                    "img":"olenbox-lmax.png",
+                    "url":"https://www.google.com"
+                },
+                "24V-1.65kWh":{
+                    "img":"olenbox-lmax.png",
+                    "url":"https://www.google.com"
+                },
+                "48V-1.65kWh":{
+                    "img":"olenbox-lmax.png",
+                    "url":"https://www.google.com"
+                }
+            },
+            "series XL":
+            {
+                "question":"Series XL",
+                "img":"olenbox-xl.png",
+                "12V-3.3kWh":{
+                    "img":"olenbox-xl.png",
+                    "url":"https://www.google.com"
+                },
+                "24V-3.3kWh":{
+                    "img":"olenbox-xl.png",
+                    "url":"https://www.google.com"
+                },
+                "48V-3.3kWh":{
+                    "img":"olenbox-xl.png"
+                }
+            }
+        },
+        "OlenPack batteries":
+        {
+            "img":"olenpack.png"
+        },
+        "MERLIN ecosystem products":
+        {
+            "img":"merlin.png",
+            "question":"which product in the Merlin ecosystem?",
+            "Merlin Smart Battery Monitoring":{
+                "img":"merlin.png",
+                "url":"https://www.olenergies.com/_datasheet/FR/50-FT-MERLIN.pdf"
+            },
+            "Merlin Smartshunt":{
+                "img":"smartshunt.png",
+                "url":"https://francebattery.com/wp-content/uploads/2022/02/fiche-technique-merlin-smartshunt-fren-scaled.jpg"
+            }
+        },
+        "Chargers":
+        {
+            "img":"charger.png",
+            "question":"Which charger for the technical data sheet?",
+            "Series S 12V":{
+                "img":"charger.png",
+                "url":"https://www.olenergies.com/wp-content/uploads/2021/07/chargeur_s-12-15.pdf"
+            },
+            "Series M 12V":{
+                "img":"charger.png",
+                "url":"https://www.olenergies.com/wp-content/uploads/2021/07/chargeur_m-12-25.pdf"
+            },
+            "Series L 12V":{
+                "img":"charger.png",
+                "url":"https://www.olenergies.com/wp-content/uploads/2021/07/chargeur_l-12-40.pdf"
+            },
+            "Series M 24V":{
+                "img":"charger.png",
+                "url":"https://www.olenergies.com/wp-content/uploads/2021/07/chargeur_m-24-10.pdf"
+            },
+            "Series L 24V":{
+                "img":"charger.png",
+                "url":"https://www.olenergies.com/wp-content/uploads/2021/07/chargeur_l-24-15.pdf"
+            },
+            "Series L 48V":{
+                "img":"charger.png",
+                "url":"https://www.olenergies.com/wp-content/uploads/2021/07/chargeur_l-48-10.pdf"
+            },
+            "Series XL 48V":{
+                "img":"charger.png",
+                "url":"https://www.olenergies.com/wp-content/uploads/2021/07/chargeur_s-12-15.pdf"
+            }
+        }
+
+        
+        
+    },
+    "Download mobile app":
+    {
+        "img":"app.svg",
+        "Smartphone Android":
+        {
+            "img":"android.svg",
+            "url":"https://play.google.com/store/apps/details?id=com.olenergies.olenpepsmobile"
+        },
+        "Apple iPhone":
+        {
+            "img":"ios.svg",
+            "url":"https://apps.apple.com/fr/app/id1644722573"
+        }
+        
+    }
+
+
+
+}
